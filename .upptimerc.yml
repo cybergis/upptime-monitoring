@@ -13,6 +13,8 @@ sites:
     url: http://go.illinois.edu/cybergis-jupyter-water
   - name: CyberGIS-Compute SDK Documentation
     url: https://cybergis.github.io/cybergis-compute-python-sdk/
+  - name: CyberGIS-Compute Production Server
+    url: https://cgjobsup.cigi.illinois.edu/v2/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
