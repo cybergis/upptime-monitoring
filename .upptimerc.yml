@@ -22,7 +22,7 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: CyberGIS Center Upptime Monitoring
   introTitle: "CyberGIS Center Upptime Monitoring."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introMessage: This page tracks the status of various websites run by the CyberGIS Center at the University of Illinois Urbana-Champaign.
   navbar:
     - title: Status
       href: /upptime-monitoring
