@@ -15,6 +15,12 @@ sites:
     url: https://cybergis.github.io/cybergis-compute-python-sdk/
   - name: CyberGIS-Compute Production Server
     url: https://cgjobsup.cigi.illinois.edu/v2/
+  - name: CVMFS Stratum 0
+    url: http://cvmfs.cigi.illinois.edu/cvmfs/info/v1/repositories.json
+  - name: CVMFS Stratum 1 - UIUC
+    url: http://cvmfstr1.cigi.illinois.edu/cvmfs/info/v1/repositories.json
+  - name: CVMFS Stratum 1 - Jetstream 2
+    url: http://149.165.152.146/cvmfs/info/v1/repositories.json
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
