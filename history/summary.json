@@ -4,10 +4,10 @@
     "url": "https://cybergis.illinois.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cybergis.illinois.edu.ico",
     "slug": "cyber-gis-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 613,
@@ -15,16 +15,18 @@
     "timeWeek": 605,
     "timeMonth": 568,
     "timeYear": 613,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-11": 1
+    }
   },
   {
     "name": "CyberGISX Hub",
     "url": "https://cybergisxhub.cigi.illinois.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cybergisxhub.cigi.illinois.edu.ico",
     "slug": "cyber-gisx-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +35,9 @@
     "timeWeek": 1321,
     "timeMonth": 1287,
     "timeYear": 1330,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-04-11": 0
+    }
   },
   {
     "name": "CyberGIS-Jupyter",
