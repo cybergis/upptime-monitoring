@@ -155,17 +155,17 @@
     "url": "http://149.165.152.146/cvmfs/info/v1/repositories.json",
     "icon": "https://icons.duckduckgo.com/ip3/149.165.152.146.ico",
     "slug": "cvmfs-stratum-1-jetstream-2",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 52,
-    "timeDay": 0,
-    "timeWeek": 41,
-    "timeMonth": 44,
-    "timeYear": 52,
+    "time": 53,
+    "timeDay": 68,
+    "timeWeek": 46,
+    "timeMonth": 45,
+    "timeYear": 53,
     "dailyMinutesDown": {
       "2024-03-10": 24
     }
