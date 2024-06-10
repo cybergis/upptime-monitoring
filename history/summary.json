@@ -4,10 +4,10 @@
     "url": "https://cybergis.illinois.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cybergis.illinois.edu.ico",
     "slug": "cyber-gis-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.87%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 688,
@@ -16,6 +16,7 @@
     "timeMonth": 844,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2024-06-10": 2,
       "2024-04-11": 98
     }
   },
@@ -24,10 +25,10 @@
     "url": "https://cybergisxhub.cigi.illinois.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cybergisxhub.cigi.illinois.edu.ico",
     "slug": "cyber-gisx-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 1338,
@@ -36,6 +37,7 @@
     "timeMonth": 1376,
     "timeYear": 1338,
     "dailyMinutesDown": {
+      "2024-06-10": 1,
       "2024-04-11": 97
     }
   },
@@ -104,10 +106,10 @@
     "url": "https://cgjobsup.cigi.illinois.edu/v2/",
     "icon": "https://icons.duckduckgo.com/ip3/cgjobsup.cigi.illinois.edu.ico",
     "slug": "cyber-gis-compute-production-server",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 197,
@@ -115,16 +117,18 @@
     "timeWeek": 228,
     "timeMonth": 218,
     "timeYear": 197,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-10": 1
+    }
   },
   {
     "name": "CVMFS Stratum 0",
     "url": "http://cvmfs.cigi.illinois.edu/cvmfs/info/v1/repositories.json",
     "icon": "https://icons.duckduckgo.com/ip3/cvmfs.cigi.illinois.edu.ico",
     "slug": "cvmfs-stratum-0",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -133,16 +137,18 @@
     "timeWeek": 120,
     "timeMonth": 131,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-10": 0
+    }
   },
   {
     "name": "CVMFS Stratum 1 - UIUC",
     "url": "http://cvmfstr1.cigi.illinois.edu/cvmfs/info/v1/repositories.json",
     "icon": "https://icons.duckduckgo.com/ip3/cvmfstr1.cigi.illinois.edu.ico",
     "slug": "cvmfs-stratum-1-uiuc",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -151,7 +157,9 @@
     "timeWeek": 112,
     "timeMonth": 123,
     "timeYear": 113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-10": 0
+    }
   },
   {
     "name": "CVMFS Stratum 1 - Jetstream 2",
