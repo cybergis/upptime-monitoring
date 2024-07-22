@@ -25,9 +25,9 @@
     "url": "https://cybergisxhub.cigi.illinois.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cybergisxhub.cigi.illinois.edu.ico",
     "slug": "cyber-gisx-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
@@ -37,6 +37,7 @@
     "timeMonth": 4870,
     "timeYear": 2017,
     "dailyMinutesDown": {
+      "2024-07-22": 0,
       "2024-06-10": 2,
       "2024-04-11": 97
     }
