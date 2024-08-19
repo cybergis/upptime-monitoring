@@ -1,7 +1,7 @@
 url: http://149.165.152.146/cvmfs/info/v1/repositories.json
-status: up
-code: 200
-responseTime: 45
-lastUpdated: 2024-08-18T23:14:18.711Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2024-08-19T21:18:16.987Z
 startTime: 2024-02-28T16:58:19.501Z
 generator: Upptime <https://github.com/upptime/upptime>
