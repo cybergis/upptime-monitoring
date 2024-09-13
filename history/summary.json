@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 943,
-    "timeDay": 1674,
-    "timeWeek": 1223,
-    "timeMonth": 1328,
-    "timeYear": 943,
+    "time": 942,
+    "timeDay": 640,
+    "timeWeek": 1079,
+    "timeMonth": 1298,
+    "timeYear": 942,
     "dailyMinutesDown": {
       "2024-06-10": 3,
       "2024-04-11": 98
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cybergisxhub.cigi.illinois.edu.ico",
     "slug": "cyber-gisx-hub",
     "status": "up",
-    "uptime": "99.96%",
+    "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
-    "time": 2771,
-    "timeDay": 5002,
-    "timeWeek": 4786,
-    "timeMonth": 4837,
-    "timeYear": 2771,
+    "uptimeYear": "99.97%",
+    "time": 2783,
+    "timeDay": 5118,
+    "timeWeek": 4851,
+    "timeMonth": 4843,
+    "timeYear": 2783,
     "dailyMinutesDown": {
       "2024-06-10": 2,
       "2024-04-11": 97
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 465,
-    "timeDay": 490,
-    "timeWeek": 417,
-    "timeMonth": 499,
-    "timeYear": 465,
+    "time": 464,
+    "timeDay": 435,
+    "timeWeek": 430,
+    "timeMonth": 509,
+    "timeYear": 464,
     "dailyMinutesDown": {
       "2024-06-02": 29
     }
@@ -73,9 +73,9 @@
     "uptimeMonth": "97.59%",
     "uptimeYear": "99.60%",
     "time": 625,
-    "timeDay": 388,
-    "timeWeek": 552,
-    "timeMonth": 625,
+    "timeDay": 588,
+    "timeWeek": 560,
+    "timeMonth": 632,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2024-08-20": 894,
@@ -97,9 +97,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 90,
-    "timeDay": 80,
-    "timeWeek": 89,
-    "timeMonth": 91,
+    "timeDay": 64,
+    "timeWeek": 88,
+    "timeMonth": 90,
     "timeYear": 90,
     "dailyMinutesDown": {}
   },
@@ -115,9 +115,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 175,
+    "timeDay": 153,
     "timeWeek": 185,
-    "timeMonth": 193,
+    "timeMonth": 196,
     "timeYear": 190,
     "dailyMinutesDown": {
       "2024-06-10": 2
@@ -134,11 +134,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 77,
+    "time": 109,
+    "timeDay": 78,
     "timeWeek": 83,
-    "timeMonth": 104,
-    "timeYear": 110,
+    "timeMonth": 106,
+    "timeYear": 109,
     "dailyMinutesDown": {
       "2024-06-10": 1
     }
@@ -155,9 +155,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 385,
+    "timeDay": 92,
     "timeWeek": 127,
-    "timeMonth": 117,
+    "timeMonth": 119,
     "timeYear": 111,
     "dailyMinutesDown": {
       "2024-06-10": 1
@@ -177,7 +177,7 @@
     "time": 59,
     "timeDay": 49,
     "timeWeek": 51,
-    "timeMonth": 58,
+    "timeMonth": 60,
     "timeYear": 59,
     "dailyMinutesDown": {
       "2024-08-20": 894,
