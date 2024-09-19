@@ -25,9 +25,9 @@
     "url": "https://cybergisxhub.cigi.illinois.edu/",
     "icon": "https://icons.duckduckgo.com/ip3/cybergisxhub.cigi.illinois.edu.ico",
     "slug": "cyber-gisx-hub",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -37,6 +37,7 @@
     "timeMonth": 4822,
     "timeYear": 2853,
     "dailyMinutesDown": {
+      "2024-09-19": 0,
       "2024-06-10": 2,
       "2024-04-11": 97
     }
@@ -67,11 +68,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/go.illinois.edu.ico",
     "slug": "cyber-gis-jupyter-for-water-cjw",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.59%",
-    "uptimeYear": "99.61%",
+    "uptimeYear": "99.62%",
     "time": 621,
     "timeDay": 827,
     "timeWeek": 521,
