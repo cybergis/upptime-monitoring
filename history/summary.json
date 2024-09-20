@@ -27,8 +27,8 @@
     "slug": "cyber-gisx-hub",
     "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "98.29%",
-    "uptimeWeek": "99.76%",
+    "uptimeDay": "98.22%",
+    "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.96%",
     "time": 2893,
@@ -37,7 +37,7 @@
     "timeMonth": 4839,
     "timeYear": 2893,
     "dailyMinutesDown": {
-      "2024-09-20": 0,
+      "2024-09-20": 1,
       "2024-09-19": 24,
       "2024-06-10": 2,
       "2024-04-11": 97
