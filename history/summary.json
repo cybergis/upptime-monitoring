@@ -120,9 +120,9 @@
     "slug": "cyber-gis-compute-production-server",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
     "timeDay": 130,
@@ -130,7 +130,6 @@
     "timeMonth": 180,
     "timeYear": 188,
     "dailyMinutesDown": {
-      "2024-10-10": 9,
       "2024-06-10": 2
     }
   },
