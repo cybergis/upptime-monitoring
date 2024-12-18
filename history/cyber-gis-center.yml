@@ -1,7 +1,7 @@
 url: https://cybergis.illinois.edu/
-status: up
-code: 200
-responseTime: 1208
-lastUpdated: 2024-12-17T23:14:16.915Z
+status: down
+code: 500
+responseTime: 10350
+lastUpdated: 2024-12-18T22:33:16.322Z
 startTime: 2024-02-27T22:47:07.117Z
 generator: Upptime <https://github.com/upptime/upptime>
