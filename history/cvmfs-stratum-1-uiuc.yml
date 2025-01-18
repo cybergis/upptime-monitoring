@@ -1,7 +1,7 @@
 url: http://cvmfstr1.cigi.illinois.edu/cvmfs/info/v1/repositories.json
-status: up
-code: 200
-responseTime: 32
-lastUpdated: 2025-01-17T23:13:55.858Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2025-01-18T19:18:11.226Z
 startTime: 2024-02-28T16:58:19.045Z
 generator: Upptime <https://github.com/upptime/upptime>
